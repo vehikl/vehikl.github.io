@@ -53,6 +53,8 @@ class App extends Component {
               <a href="#could_be_a_link" target="_blank">Onboarding</a>
               <a href="#could_be_a_link" target="_blank">Stuff</a>
             </div>
+            <a className="source-link" href="https://github.com/vehikl/vehikl.github.io">source</a>
+            <p className="copyright">&copy; Vehikl 2016</p>
           </div>
         </div>
       </div>
